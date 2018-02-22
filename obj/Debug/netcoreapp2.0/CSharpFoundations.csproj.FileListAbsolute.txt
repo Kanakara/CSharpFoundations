@@ -1,0 +1,10 @@
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\bin\Debug\netcoreapp2.0\CSharpFoundations.deps.json
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\bin\Debug\netcoreapp2.0\CSharpFoundations.runtimeconfig.json
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\bin\Debug\netcoreapp2.0\CSharpFoundations.runtimeconfig.dev.json
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\bin\Debug\netcoreapp2.0\CSharpFoundations.dll
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\bin\Debug\netcoreapp2.0\CSharpFoundations.pdb
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\obj\Debug\netcoreapp2.0\CSharpFoundations.csproj.CoreCompileInputs.cache
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\obj\Debug\netcoreapp2.0\CSharpFoundations.AssemblyInfoInputs.cache
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\obj\Debug\netcoreapp2.0\CSharpFoundations.AssemblyInfo.cs
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\obj\Debug\netcoreapp2.0\CSharpFoundations.dll
+C:\Users\Kanakara\Desktop\Git\CoderCamp Classes\CSharpFoundations\obj\Debug\netcoreapp2.0\CSharpFoundations.pdb
